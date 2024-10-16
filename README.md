@@ -33,6 +33,16 @@ Para executar o projeto, siga os passos abaixo:
     ```bash
    docker compose up -d
 
+3. **Acessar o Jupyter Notebook**:
+
+   Após iniciar o container, você pode acessar o Jupyter Notebook no seu navegador através do seguinte link:
+
+   ```
+   http://localhost:8888
+   ```
+
+   Não é necessário um token ou senha para acessar.
+
 ## Credits
 
 - [André Luíz F Souza](https://github.com/adventureandre) (Developer)
